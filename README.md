@@ -1,17 +1,17 @@
-# Hi, My name is Kim muyeon 👋
+# 안녕하세요, 저는 김무연입니다! 잘 부탁드려요~~ 👋
 
-<p>Welcome to my page!</p>
+<p>저의 페이지에 오신 것을 환영합니다!</p>
 
 ---
 
 ## 🎓 Education
 
 - **[국민대학교]**  
-  * Currently Enrolled in AI빅데이터융합경영학과 *  
-  *Expected Graduation Year: 2026*  
+  *  AI빅데이터융합경영학과 4학년 재학중 *  
+  *졸업예정: 2026*  
 
 - **[대전대성고등학교]**  
-  *Graduation Year: 2019*
+  *졸업년도: 2019*
   
 ---
 
@@ -28,16 +28,13 @@
 
 ---
 
-## 🧠 Interests  
+## 🧠 Interests & Plan to work on
 
-- **Computer Vision**:  
-  My focus lies in developing techniques that advance **Object Detection**, **Image Segmentation**, and particularly **Keypoint Detection**. I am deeply interested in extracting meaningful features and identifying critical points in images to solve real-world problems, such as motion analysis, pose estimation, and medical image analysis.
+- 🖼️ **컴퓨터 비전(Computer Vision)**  
+   - 🔍 **특징점 추출 (Keypoint Detection)**: **포즈 추정**, **동작 분석**, **의료 영상 분석**과 같은 작업을 위해 이미지에서 중요한 특징점과 키포인트를 추출 
 
-- **Healthcare Projects**:  
-  Passionate about applying AI to **medical diagnostics** and **healthcare automation**, I aim to develop AI models that tackle critical healthcare problems, such as disease detection, medical image analysis (e.g., X-rays, MRIs), and predictive analytics for patient care.
-
-- **Deep Learning**:  
-  I enjoy building **robust and explainable models** using frameworks like **PyTorch**. My focus is on improving model performance while ensuring interpretability through methods such as **Grad-CAM**, **SHAP**, and attention mechanisms to bridge the gap between AI solutions and real-world usability in healthcare.
+- 🩺 **헬스케어 AI(Healthcare AI)**  
+   - 🛠️ **운동 관련 분석**: 특정 운동자세를 분석하여 효율적인 자세를 추구하는 모델 개발
 
 
 ---
