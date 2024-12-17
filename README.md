@@ -25,7 +25,17 @@
 
 - **[제2회 국민대학교 AI빅데이터 분석 경진대회]**  
   *대상* - *2024.12.13*    
+
 ---
+
+## 🧠 Interests  
+
+- **Computer Vision**: Object Detection, Image Segmentation
+- **Healthcare Projects**: Developing AI models related to medical, healthcare problems  
+- **Deep Learning**: Building robust and explainable models using PyTorch
+
+---
+
 ## 🛠️ My Coding Skills and Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
