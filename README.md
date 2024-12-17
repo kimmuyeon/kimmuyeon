@@ -1,6 +1,16 @@
-## Hi, My name is Kim muyeon 👋
+# Hi, My name is Kim muyeon 👋
 
 <p>Welcome to my page!</p>
+
+## 🎓 Education
+
+- **[국민대학교]**  
+  * Currently Enrolled in AI빅데이터융합경영학과 *  
+  *Expected Graduation Year: 2026*  
+
+- **[대전대성고등학교]**  
+  *Graduation Year: 2019*
+
 
 <h3> 🛠️ My Coding Skills and Tech Stack</h3>
 
