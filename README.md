@@ -1,7 +1,9 @@
 # Hi, My name is Kim muyeon 👋
 
 <p>Welcome to my page!</p>
+
 ---
+
 ## 🎓 Education
 
 - **[국민대학교]**  
@@ -10,7 +12,9 @@
 
 - **[대전대성고등학교]**  
   *Graduation Year: 2019*
+  
 ---
+
 ## 🏆 Awards & Honors  
 
 - **[2024 국민대학교 기후변화대응 비즈니스 아이디어 공모전]**  
