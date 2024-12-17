@@ -30,7 +30,7 @@
 
 ## 🧠 Interests  
 
-- **Computer Vision**: Object Detection, Image Segmentation
+- **Computer Vision**: Object Detection, Image Segmentation and Keypoint detection
 - **Healthcare Projects**: Developing AI models related to medical, healthcare problems  
 - **Deep Learning**: Building robust and explainable models using PyTorch
 
