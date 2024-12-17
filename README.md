@@ -30,9 +30,15 @@
 
 ## 🧠 Interests  
 
-- **Computer Vision**: Object Detection, Image Segmentation and Keypoint detection
-- **Healthcare Projects**: Developing AI models related to medical, healthcare problems  
-- **Deep Learning**: Building robust and explainable models using PyTorch
+- **Computer Vision**:  
+  My focus lies in developing techniques that advance **Object Detection**, **Image Segmentation**, and particularly **Keypoint Detection**. I am deeply interested in extracting meaningful features and identifying critical points in images to solve real-world problems, such as motion analysis, pose estimation, and medical image analysis.
+
+- **Healthcare Projects**:  
+  Passionate about applying AI to **medical diagnostics** and **healthcare automation**, I aim to develop AI models that tackle critical healthcare problems, such as disease detection, medical image analysis (e.g., X-rays, MRIs), and predictive analytics for patient care.
+
+- **Deep Learning**:  
+  I enjoy building **robust and explainable models** using frameworks like **PyTorch**. My focus is on improving model performance while ensuring interpretability through methods such as **Grad-CAM**, **SHAP**, and attention mechanisms to bridge the gap between AI solutions and real-world usability in healthcare.
+
 
 ---
 
