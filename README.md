@@ -1,6 +1,6 @@
 # 안녕하세요, 김무연입니다! 👋
 
-<p>저의 Github 공간에 오신 것을 환영합니다!</p>
+### 저의 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 공간에 오신 것을 환영합니다!
 
 ---
 
